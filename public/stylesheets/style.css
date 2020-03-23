@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+.item-active {
+  font-weight: bold;
+  color: green;
+  font-size: 25px;
+}
+.list-item{
+  color: chocolate;
+  list-style-type: square;
+}
