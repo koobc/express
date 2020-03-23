@@ -11,7 +11,11 @@ a {
   color: green;
   font-size: 25px;
 }
-.list-item{
+.list-item {
   color: chocolate;
   list-style-type: square;
+}
+.logowanie {
+  color: orangered;
+
 }
