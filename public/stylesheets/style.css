@@ -19,3 +19,12 @@ a {
   color: orangered;
 
 }
+.article-title {
+  color: green;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+.article-data {
+  color: blue;
+}
