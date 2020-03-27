@@ -28,3 +28,10 @@ a {
 .article-data {
   color: blue;
 }
+
+.logo {
+  height: 96px;
+  line-height: 96px;
+  overflow: hidden;
+  
+}
